@@ -1,0 +1,4 @@
+name = "ROILoc"
+uuid = "086aa61c-019c-4f3a-94a8-39d88b3b5a64"
+authors = ["Clément POIRET <poiret.clement@outlook.fr>"]
+version = "0.1.0"
