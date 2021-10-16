@@ -2,3 +2,7 @@ name = "ROILoc"
 uuid = "086aa61c-019c-4f3a-94a8-39d88b3b5a64"
 authors = ["Clément POIRET <poiret.clement@outlook.fr>"]
 version = "0.1.0"
+
+[deps]
+Glob = "c27321d9-0574-5035-807b-f59d2c89b15c"
+NIfTI = "a3a9e032-41b5-5fc4-967a-a6b7a19844d3"
